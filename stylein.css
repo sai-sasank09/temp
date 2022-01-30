@@ -130,11 +130,12 @@ input::-webkit-inner-spin-button {
 }
 @media (max-width:1028px) {
   #footer{
-    padding: 5% 1%;
+    padding-top:10% 1%;
+    text-allign:center;
 
   }
   #bill{
-    padding: 3% 10%;
+    padding-top:30%;
   }
 
 
