@@ -1,6 +1,3 @@
-#title{
-
-}
 
 body,html{
   height: 50%;
@@ -130,13 +127,18 @@ input::-webkit-inner-spin-button {
 }
 @media (max-width:1028px) {
   #footer{
-    padding-top:10% 1%;
-    text-allign:center;
+    padding: 5% 1%;
 
   }
   #bill{
-    padding-top:30%;
+    padding: 3% 10%;
+  }
+  .rate{
+    padding-top: 15%;
   }
 
 
+}
+.hi{
+  padding-left: 10%
 }
